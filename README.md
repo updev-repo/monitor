@@ -3,7 +3,8 @@ Implement a browser extension that monitors changes in the DOM of any website (e
 
 
 ### Introduction
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](video/intro.mp4)
+![Intro Video](video/intro.gif)
+
 
 ### How to build extension
 + `cd monitor-extension`
